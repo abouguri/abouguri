@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Abou Guri
+# 👋 Hey there!
 
 <div align="center">
   
