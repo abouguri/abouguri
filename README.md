@@ -1,11 +1,3 @@
-# Abdelaadim Bougurine
-
-Junior Software Developer with strong foundations in systems programming, backend development, and Linux-based infrastructure.  
-Trained through the 1337 (42 Network) project-based curriculum, focused on low-level programming, networking, debugging, and building reliable software systems.
-
-Currently interested in backend architecture, containerized environments, and scalable infrastructure.
-
----
 
 ## Technical Stack
 
