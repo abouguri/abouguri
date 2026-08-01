@@ -1,5 +1,3 @@
-# abouguri
-
 Backend & systems engineer focused on building reliable software and infrastructure.
 
 ## Core Stack
