@@ -1,7 +1,6 @@
 I like knowing what happens underneath. That is why I wrote a shell instead of
 only using one, a raycaster instead of importing an engine, and an IRC server
-instead of reading about sockets. Studying for the CCNA now, which is the same
-instinct pointed one layer further down.
+instead of reading about sockets.
 
 The other half of the work is shipping things people can actually open: a task
 manager that runs on three platforms from one codebase, an offline-first Android
@@ -12,7 +11,7 @@ be trusted.
 
 | Layer | What I have built there |
 | --- | --- |
-| Network | Studying for the CCNA: routing, switching, subnetting, VLANs |
+| Network | routing, switching, subnetting, VLANs |
 | Systems | A bash-like shell, a raycasting engine, an epoll-driven IRC server, threaded synchronisation without deadlock |
 | Services | Event-driven microservices over RabbitMQ, an ASP.NET Core API on Azure, a FastAPI simulation backend |
 | Infrastructure | Docker and Compose built from base images, NGINX with TLS, HashiCorp Vault, Cloud Build |
